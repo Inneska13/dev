@@ -21,5 +21,5 @@ bbb
 mmm
 bbb
 blablabla
-alert ("Привіт!")blablabla
+
 
